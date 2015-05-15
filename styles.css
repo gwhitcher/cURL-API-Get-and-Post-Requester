@@ -1,0 +1,31 @@
+body {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 14px;
+}
+
+h1 {
+	font-size: 16px;
+	font-weight: bold;
+	margin: 0px;
+	padding: 0px;
+}
+
+label {
+    clear: both;
+    font-weight: bold;
+}
+
+input, #host, #parameters {
+        clear: both;
+        display: block;
+}
+
+.example {
+    font-size: 10px;
+    font-style: italic;
+}
+
+#copyright {
+	font-size: 9px;
+	font-style: italic;
+}
